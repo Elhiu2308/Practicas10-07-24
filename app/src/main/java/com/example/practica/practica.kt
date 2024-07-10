@@ -19,9 +19,9 @@ fun main() {
 
     //Valores Booleanos
     val exampleBoolean:Boolean = true
-    val exampleBoolean2:Boolean = false
+    val exampleBoolean1:Boolean = false
 
-    print(exampleBoolean)
+    print(exampleBoolean1)
 
 
 }
