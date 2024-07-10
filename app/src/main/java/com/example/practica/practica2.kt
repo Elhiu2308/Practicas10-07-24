@@ -1,4 +1,4 @@
-package com.example.practica.ui.theme
+package com.example.practica
 
 fun main(){
 
